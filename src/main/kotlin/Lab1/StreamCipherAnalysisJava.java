@@ -2,6 +2,9 @@ package Lab1;
 
 import java.util.Scanner;
 
+
+//lab 1 work
+
 public class StreamCipherAnalysisJava {
 
     // Function to XOR two hex strings
