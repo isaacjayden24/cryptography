@@ -1,4 +1,4 @@
-import kotlin.random.Random
+package Lab1
 
 class StreamCipherAnalysis {
     class LFSR(private var state: Int, private val tapPositions: List<Int>) {
